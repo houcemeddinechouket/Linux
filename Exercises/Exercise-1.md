@@ -121,3 +121,9 @@ $ find / -name file1
 $ top
 ```
 </details>
+<details><summary><b>Count the number of lines, words, and characters in a file/b></summary><br>
+
+```bash
+$ wc file.txt
+```
+</details>
