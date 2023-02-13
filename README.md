@@ -7,3 +7,9 @@
 It is known for its stability, security, and versatility, as well as its ability to run on a variety of hardware. 
 - Linux is also highly customizable, allowing users to modify and distribute their own versions, known as distributions or "distros". 
 - Some of the most popular distributions include Debian, Ubuntu, Fedora, and CentOS.
+
+### Linux Exercises
+
+- <a href="https://github.com/houcemeddinechouket/Linux/blob/main/Exercises/Exercise-1.md">Exercise 1</a>
+### Linux Interview Questions
+- <a href="https://github.com/houcemeddinechouket/docker/blob/main/Docker%20Interview%20Questions/Basic%20Docker%20Interview%20Questions.md">Basic Interview Questions</a>
