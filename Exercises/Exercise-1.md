@@ -1,3 +1,4 @@
+## Basic Linux Commands
 <details><summary><b>Print the current working directory</b></summary><br>
 
 ```bash
