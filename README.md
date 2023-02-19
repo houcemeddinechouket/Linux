@@ -12,6 +12,6 @@ It is known for its stability, security, and versatility, as well as its ability
 
 - <a href="https://github.com/houcemeddinechouket/Linux/blob/main/Exercises/Exercise-1.md">Exercise 1</a>
 - <a href="https://github.com/houcemeddinechouket/Linux/blob/main/Exercises/Exercise-2.md">Exercise 2</a>
-
+- <a href="https://github.com/houcemeddinechouket/Linux/blob/main/Exercises/Exercise-3.md">Exercise 3</a>
 ### Linux Interview Questions
 - <a href="">Interview Questions</a>
